@@ -1,2 +1,2 @@
 # ng2-bulma
-Angular 2 directives for built on bulma css
+Angular 2 directives built on bulma css
